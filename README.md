@@ -5,7 +5,7 @@
 
 ### 字体来源
 * yuyang 苍耳渔阳体：https://tsanger.cn/product/199
-* naikai 内海字体：https://github.com/max32002/naikaifont
+* naikai 内海字体：https://max-everyday.com/2020/03/naikaifont/
 * maoken 猫啃珠圆体：https://www.fonts.net.cn/font-42220289791.html?previewText=%E5%96%B5%E5%96%B5%E7%9A%84%E7%BB%93%E5%90%88
 * muyao 沐瑶软笔手写体：https://www.fonts.net.cn/font-35068393713.html?previewText=%E5%96%B5%E5%96%B5%E7%9A%84%E7%BB%93%E5%90%88
 
