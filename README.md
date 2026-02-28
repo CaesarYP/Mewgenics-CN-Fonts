@@ -25,6 +25,8 @@
 
 5.  在安装了汉化的情况下，在游戏里选择简体中文即可
 
+![简体中文效果](photo/game.png "game.png")
+
 ### 参考致谢
 
 字体替换方法来自https://github.com/rainzz-512/Mewgenics-Chinese-Translation
